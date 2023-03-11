@@ -12,7 +12,7 @@ labels:
 summary: "As Interfacing Techniques Course Project , My team created A robot mouse , and we manged to get the first place among 30 other team in my university ."
 ---
 
-<div style = "display:flex ;justify-content: space-evenly; "class="text-center p-4">
+<div "style = "display:flex ;justify-content: space-evenly;" "class="text-center p-4">
   <img  height = "200px" width="200px" src="../img/micromouse/2.png" class="img-thumbnail" >
   
    <video class="img-thumbnail"  height = "200px" width="200px"  controls>
