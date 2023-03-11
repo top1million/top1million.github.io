@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: ../img/listento/LisentoPic.png
+image: img/listento/LisentoPic.png
 title: "Listento"
 date: 2023
 published: true
