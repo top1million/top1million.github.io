@@ -1,28 +1,24 @@
 ---
 layout: project
 type: project
-image: img/vacay/vacay-square.png
-title: "Vacay"
-date: 2015
+image: img/listento/listento.png
+title: "Listento"
+date: 2023
 published: true
 labels:
-  - Javascript
-  - Meteor
-  - MongoDB
+  - Django
+  - Machine Learning (Recommendation System)
   - GitHub
-summary: "A responsive web application for travel planning that my team developed in ICS 415."
+summary: "A music recommendation Fullstack Web Application."
 ---
 
-<img class="img-fluid" src="../img/vacay/vacay-home-page.png">
+<img class="img-fluid" src="../img/listento/listento-home-page.png">
+Listento is a fullstack webapplication , where artists have the ability to publish music , and through a certain machine learning algorithm , this music will be categorized , with other music that has the same meta data , and also artists have the ablitity to publish events , where users will be able to buy tickets using there credit cards . 
 
-Vacay is a web application that I helped create as a team project in ICS 415, Spring 2015. The project helped me learn how to design and implement a responsive web site.
+Listento is implemented using [Django], a Framework that uses python as its programming language , using python came from our prior knowladge that our machine learning model would be implemented using python , so the safe idea was to make the web application also use python as it is in the machine learning .
 
-Vacay is implemented using [Meteor](http://meteor.com), a JavaScript application platform. Within two weeks, we created a website that implements several types of reservations including flights, hotels, and car rentals.
+In this project I learned alot about machine-learning ( Recommendation Systems ) ,  how to implement this machine learning models into our fullstack web application was also challenging .
 
-In this project I gained experience with full-stack web application design and associated technologies, including [MongoDB](http://mongodb.com) for database storage, the [Twitter Bootstrap](http://getbootstrap.com/) CSS Framework for the user interface, and Javascript for both client and server-side programming. 
 
-Here is some example code to illustrate Simple Schema use:
-
-{% gist 9defa1fb3f4eb593ba5fa9eacedca960 %}
  
-Source: <a href="https://github.com/theVacay/vacay">theVacay/vacay</a>
+Source: <a href="https://github.com/top1million/GradProject">Listento/Listento</a>
