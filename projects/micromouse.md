@@ -16,7 +16,7 @@ summary: "As Interfacing Techniques Course Project , My team created A robot mou
   <img  height = "200px" width="200px" src="../img/micromouse/2.png" class="img-thumbnail" >
   
    <video height = "200px" width="200"  controls>
-      <source src="../img/micrmouse/vid.mp4" type="video/mp4">
+      <source src="../img/micromouse/vid.mp4" type="video/mp4">
     Your browser does not support the video tag.
     </video> 
 </div>
