@@ -1,0 +1,88 @@
+{
+  "basics": {
+    "name": "Amro Abu Hashish",
+    "label": "Computer Engineer",
+    "picture": "https://github.com/top1million.png",
+    "email": "aasahashish@gmail.com",
+    "phone": "+970594607873",
+    "website": "https://top1million.github.io",
+    "summary": "I am a computer Engineering Student that is supposed to graduate next June.",
+    "location": { "address": "Ramallah", "postalCode": "p6068787", "city": "Ramallah", "countryCode": "PS", "region": "westbank" },
+    "profiles": [
+      { "network": "github", "username": "top1million", "url": "http://github.com/top1million" },
+      { "network": "linkedin", "username": "Amro abu hashish", "url": "https://www.linkedin.com/in/amr-abuhashish-b3077a202/" },
+    ]
+  },
+  "interests": [
+    { "name": "Fullstack Development" },
+    { "name": "Machine learning" },
+    { "name": "Embedded systems" },
+    { "name": "Multi-Proccessing || Multi-threading" },
+    { "name": "Networking" }
+  ],
+  "skills": [
+    {
+      "name": "Languages and Frameworks",
+      "keywords": [ "C", "Java", "Python" , "Django" , "java SpringBoot" ]
+    },
+    {
+      "name": "Toolsets/OS",
+      "keywords": [  "Ubuntu", "Git/GitHub" , "Postman" , "CLI" , "Workbench" , "docker" ,"Visual Studio Code"]
+    }
+  ],
+  "education": [
+    {
+      "institution": "Birzeit University",
+      "area": "Computer Engineering (expected Summer, 2023)",
+      "studyType": "B.S.",
+      "startDate": "2018-09-01",
+      "endDate": "Present",
+      "courses": [
+        "Real-Time Systems",
+        "Algorithms and Data Structures " ,
+        "CryptoGraphy" , 
+        "Artificial Inteligiance " ,
+        "Quality Assurance " ,
+        "Natural Language Proccesing",
+        "Interfacing Techniques",
+        "Database"
+      ]
+    }
+  ],
+  "Internship": [
+    {
+      "company": "Mashvisor",
+      "position": "Software Engineer",
+      "website": "",
+      "startDate": "2022-06-01",
+      "endDate": "2022-09-1",
+      "summary": "Fullstack Engineer",
+      "highlights": [
+        "Mashvisor    is a platform that is used to analyze real-estate data.",
+        "Developed  demos using React, Mongodb, Express , Node.js .",
+        " Worked in an Agile environment (Scrum)."
+      ]
+    },
+
+  ],
+  "volunteer": [
+    {
+      "Ministry of Education and IT.",
+      "position": "Software Engineer",
+      "startDate": "2022-01-01",
+      "endDate": "2022-04-25",
+      "summary": "Instructur for school students.",
+      "highlights": [
+        "Mentored students aged between 10 - 15 years.",
+        "Delivered 14 full lessons (Html + Css + PictoBlox).",
+        "Prepared students to join a programming contest ."
+      ]
+    },
+  ],
+ 
+  "references": [
+    {
+      "name": "Available upon request"
+    }
+  ]
+}
