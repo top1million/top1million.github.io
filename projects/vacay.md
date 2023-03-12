@@ -12,8 +12,7 @@ labels:
 summary: "A music recommendation Fullstack Web Application."
 ---
 
- <video class="img-fluid" controls>
-  <source src="movie.webm" type="../img/listento/1.webm">
+<img class="img-fluid" src="../img/listento/Listento.png">
 Your browser does not support the video tag.
 </video> 
 Listento is a fullstack webapplication , where artists have the ability to publish music , and through a certain machine learning algorithm , this music will be categorized , with other music that has the same meta data , and also artists have the ablitity to publish events , where users will be able to buy tickets using there credit cards . 
